@@ -3,7 +3,7 @@
 #   interval: systemd time span, default 5min
 #   mode: random | sequential, default random
 set -euo pipefail
-INTERVAL="${1:-5s}"; MODE="${2:-random}"
+INTERVAL="${1:-5min}"; MODE="${2:-random}"
 REPO="$(cd "$(dirname "$0")/.." && pwd)"
 CFG="$HOME/.config/aexinide-wallpapers"
 UNITS="$HOME/.config/systemd/user"
