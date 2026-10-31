@@ -1,0 +1,10 @@
+[Unit]
+Description=Aexinide: rotate wallpaper
+
+[Timer]
+OnStartupSec=30s
+OnUnitActiveSec=@INTERVAL@
+AccuracySec=5s
+
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,6 @@
+[Unit]
+Description=Aexinide: set next wallpaper
+
+[Service]
+Type=oneshot
+ExecStart=/usr/bin/python3 @REPO@/desktop/rotate.py

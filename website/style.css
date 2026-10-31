@@ -1,0 +1,19 @@
+:root{--bg:#07080a;--fg:#e8e6e1;--mut:#8a8d93;--line:#1c1f24;--acc:#7fd1c7}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 "Inter",system-ui,sans-serif}
+header{padding:12vh 6vw 4vh;max-width:1200px}
+h1{font:600 clamp(2.8rem,9vw,6.5rem)/.95 "Space Grotesk","Inter",sans-serif;letter-spacing:-.04em;margin:0 0 1.2rem}
+header p{color:var(--mut);max-width:44ch;margin:0 0 2rem}
+#filters{display:flex;flex-wrap:wrap;gap:.5rem}
+#filters button{background:none;color:var(--mut);border:1px solid var(--line);border-radius:999px;padding:.35rem .9rem;font:inherit;cursor:pointer}
+#filters button[aria-pressed=true]{color:var(--bg);background:var(--acc);border-color:var(--acc)}
+button:focus-visible,a:focus-visible{outline:2px solid var(--acc);outline-offset:3px}
+#grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:1rem;padding:2rem 6vw}
+figure{margin:0;position:relative;aspect-ratio:16/10;background:var(--line);overflow:hidden;border-radius:6px}
+figure img{width:100%;height:100%;object-fit:cover;display:block}
+figcaption{position:absolute;inset:auto 0 0;padding:2rem .9rem .7rem;background:linear-gradient(transparent,rgba(0,0,0,.8));display:flex;justify-content:space-between;align-items:end;font-size:.85rem}
+figcaption small{color:var(--mut);display:block}
+figcaption a{color:var(--acc);text-decoration:none}
+#empty,footer{padding:2rem 6vw;color:var(--mut)}
+footer a{color:var(--fg)}
+@media(prefers-reduced-motion:no-preference){figure img{transition:transform .4s}figure:hover img{transform:scale(1.04)}}

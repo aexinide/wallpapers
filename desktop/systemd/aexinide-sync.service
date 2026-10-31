@@ -1,0 +1,7 @@
+[Unit]
+Description=Aexinide: sync wallpapers from GitHub
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=/bin/bash @REPO@/desktop/sync.sh
