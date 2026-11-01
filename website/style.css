@@ -1,22 +1,53 @@
-:root{--bg:#0e0e0e;--fg:#ddd;--mut:#888;--acc:#7fd1c7}
-*{box-sizing:border-box;margin:0;padding:0}
-body{background:var(--bg);color:var(--fg);font:14px/1.7 ui-monospace,"JetBrains Mono",monospace;padding:2rem}
-header{max-width:700px;margin:0 auto 2rem}
-h1{font-size:1.6rem;color:#fff;letter-spacing:.05em;margin-bottom:.6rem}
-header p{color:var(--mut)}
-#filters{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:1rem}
-#filters button{background:none;color:var(--mut);border:1px solid #2a2a2a;border-radius:4px;padding:.15rem .7rem;font:inherit;cursor:pointer}
-#filters button[aria-pressed=true]{color:#000;background:var(--acc);border-color:var(--acc)}
-a:focus-visible,button:focus-visible{outline:2px solid var(--acc);outline-offset:2px}
-#grid{display:flex;gap:6px;align-items:flex-start}
-.col{flex:1;min-width:0;display:flex;flex-direction:column;gap:6px}
-.tile{position:relative;background:#181818;border-radius:4px;overflow:hidden}
-.tile img{display:block;width:100%;height:auto}
-.tile .meta,.tile .dl{position:absolute;opacity:0;transition:opacity .15s}
-.tile .meta{left:0;right:0;bottom:0;padding:1.5rem .6rem .4rem;font-size:.75rem;color:#ddd;background:linear-gradient(transparent,rgba(0,0,0,.85));pointer-events:none}
-.tile .dl{top:.5rem;right:.5rem;background:rgba(0,0,0,.75);color:var(--acc);padding:.15rem .6rem;border-radius:4px;text-decoration:none;font-size:.75rem}
-.tile:hover .meta,.tile:hover .dl,.tile:focus-within .meta,.tile:focus-within .dl{opacity:1}
-@media(hover:none){.tile .dl{opacity:1}}
-#sentinel{height:1px}
-#empty,footer{color:#555;text-align:center;font-size:.75rem;line-height:1.8;margin-top:2rem}
-footer a{color:var(--mut)}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background: #0e0e0e;
+  color: #ccc;
+  font-family: monospace;
+  padding: 2rem;
+}
+header {
+  max-width: 700px;
+  margin: 0 auto 2.5rem;
+}
+header h1 {
+  font-size: 1.6rem;
+  color: #fff;
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.05em;
+}
+header p {
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #888;
+}
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 6px;
+}
+.grid img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
+}
+.grid a:hover img {
+  opacity: 0.75;
+}
+footer {
+  margin-top: 3rem;
+  font-size: 0.75rem;
+  color: #555;
+  text-align: center;
+  line-height: 1.8;
+}
+footer a {
+  color: #777;
+}
