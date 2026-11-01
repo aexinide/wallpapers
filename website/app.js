@@ -3,6 +3,7 @@ const sentinel = document.getElementById("sentinel");
 const PAGE = 12;
 let offset = 0;
 let walls = [];
+const enc = (p) => encodeURI(p).replace(/#/g, "%23").replace(/\?/g, "%3F");
 
 function addPage() {
   const end = Math.min(offset + PAGE, walls.length);
@@ -11,15 +12,14 @@ function addPage() {
     const w = walls[i];
     const dim = w.width && w.height ? `width="${w.width}" height="${w.height}"` : "";
     html += `
-      <a href="${w.file}" target="_blank" rel="noopener noreferrer">
-        <img src="${w.file}" alt="${w.name}" title="${w.name}" ${dim} loading="lazy" decoding="async" />
+      <a href="${enc(w.file)}" target="_blank" rel="noopener noreferrer">
+        <img src="${enc(w.thumb || w.file)}" alt="${w.name}" title="${w.name}" ${dim} loading="lazy" decoding="async" />
       </a>`;
   }
   grid.insertAdjacentHTML("beforeend", html);
   offset = end;
 }
 
-// Keep adding pages until the bottom of the grid is well below the screen.
 function fill() {
   let guard = 0;
   while (
