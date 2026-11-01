@@ -1,1567 +1,2449 @@
 [
   {
-    "file": "wallpapers/abstract/city_bridge.jpg",
-    "name": "city bridge",
-    "category": "abstract",
-    "width": 5295,
-    "height": 3530,
+    "file": "wallpapers/a_house_with_a_bike_and_a_chair.jpg",
+    "name": "a house with a bike and a chair",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/abstract/city_dark.png",
-    "name": "city dark",
-    "category": "abstract",
-    "width": 7680,
-    "height": 4320,
+    "file": "wallpapers/a_person_on_a_bicycle_on_a_railing_with_a_city_in_the_background.png",
+    "name": "a person on a bicycle on a railing with a city in the background",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/abstract/city_light.png",
-    "name": "city light",
-    "category": "abstract",
-    "width": 7680,
-    "height": 4320,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/abstract/city_night.png",
-    "name": "city night",
-    "category": "abstract",
+    "file": "wallpapers/aestronouts.jpg",
+    "name": "aestronouts",
+    "category": "wallpapers",
     "width": 2912,
     "height": 1632,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/abstract/city_rain.png",
-    "name": "city rain",
-    "category": "abstract",
+    "file": "wallpapers/alien_night.png",
+    "name": "alien night",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/alone_girl.png",
+    "name": "alone girl",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/alone_man.png",
+    "name": "alone man",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_boy.jpg",
+    "name": "anime boy",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/abstract/city_rainy_night.png",
-    "name": "city rainy night",
-    "category": "abstract",
+    "file": "wallpapers/anime_boy_ugly.jpg",
+    "name": "anime boy ugly",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/abstract/city_top_view.jpg",
-    "name": "city top view",
-    "category": "abstract",
-    "width": 5464,
-    "height": 3643,
+    "file": "wallpapers/anime_city.jpg",
+    "name": "anime city",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_city_night.png",
+    "file": "wallpapers/anime_city_night.png",
     "name": "anime city night",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 7264,
     "height": 4096,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_girl_rain.png",
+    "file": "wallpapers/anime_girl.jpg",
+    "name": "anime girl",
+    "category": "wallpapers",
+    "width": 5848,
+    "height": 2813,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_girl_1.jpg",
+    "name": "anime girl 1",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_girl_going.jpg",
+    "name": "anime girl going",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 892,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_girl_rain.png",
     "name": "anime girl rain",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_japan_street.png",
+    "file": "wallpapers/anime_house.jpg",
+    "name": "anime house",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2129,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_house_1.jpg",
+    "name": "anime house 1",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_japan_street.png",
     "name": "anime japan street",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_night_sky_illustration.jpg",
+    "file": "wallpapers/anime_night_sky_illustration.jpg",
     "name": "anime night sky illustration",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 8000,
     "height": 4500,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_night_stars_sky_clouds_scenery.jpg",
+    "file": "wallpapers/anime_night_stars_sky_clouds_scenery.jpg",
     "name": "anime night stars sky clouds scenery",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/anime_room.png",
+    "file": "wallpapers/anime_room.png",
     "name": "anime room",
-    "category": "anime",
+    "category": "wallpapers",
     "width": 3904,
     "height": 2240,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/anime/celestial_samurai.jpg",
-    "name": "celestial samurai",
-    "category": "anime",
-    "width": 2000,
-    "height": 1121,
+    "file": "wallpapers/anime_shop.jpg",
+    "name": "anime shop",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/architecture/building_cyber.jpg",
-    "name": "building cyber",
-    "category": "architecture",
+    "file": "wallpapers/anime_village.jpg",
+    "name": "anime village",
+    "category": "wallpapers",
+    "width": 2500,
+    "height": 1580,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/anime_with_friends.jpg",
+    "name": "anime with friends",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/architecture/buildings.png",
-    "name": "buildings",
-    "category": "architecture",
+    "file": "wallpapers/astronouts_.jpg",
+    "name": "astronouts ",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/cyberpunk/null.png",
-    "name": "null",
-    "category": "cyberpunk",
+    "file": "wallpapers/backyard.png",
+    "name": "backyard",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/beautiful_door.jpg",
+    "name": "beautiful door",
+    "category": "wallpapers",
+    "width": 5976,
+    "height": 3992,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/beautiful_eyes.jpg",
+    "name": "beautiful eyes",
+    "category": "wallpapers",
     "width": 1920,
-    "height": 1080,
+    "height": 1076,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/cyberpunk/open_sourcerer.png",
-    "name": "open sourcerer",
-    "category": "cyberpunk",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/cyberpunk/your_name_night_sky.jpg",
-    "name": "your name night sky",
-    "category": "cyberpunk",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/liquid_yin_and_yang.jpeg",
-    "name": "liquid yin and yang",
-    "category": "dark",
-    "width": 5500,
-    "height": 3082,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_anime_room.png",
-    "name": "lofi anime room",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_cafe1.png",
-    "name": "lofi cafe1",
-    "category": "dark",
+    "file": "wallpapers/beautiful_eyes_1.jpg",
+    "name": "beautiful eyes 1",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/dark/lofi_cafe2.png",
-    "name": "lofi cafe2",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_cat.png",
-    "name": "lofi cat",
-    "category": "dark",
-    "width": 5039,
-    "height": 2835,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_chill_room.png",
-    "name": "lofi chill room",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_chill_room2.jpeg",
-    "name": "lofi chill room2",
-    "category": "dark",
-    "width": 5824,
-    "height": 3264,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_computer.png",
-    "name": "lofi computer",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_desktop_man_studying.png",
-    "name": "lofi desktop man studying",
-    "category": "dark",
-    "width": 2088,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_study.png",
-    "name": "lofi study",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofi_urban_nightscape.png",
-    "name": "lofi urban nightscape",
-    "category": "dark",
-    "width": 2184,
-    "height": 1224,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofoten2.jpg",
-    "name": "lofoten2",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lofoten_sundown.jpg",
-    "name": "lofoten sundown",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/lowpoly_street.png",
-    "name": "lowpoly street",
-    "category": "dark",
+    "file": "wallpapers/big_dark_house.jpg",
+    "name": "big dark house",
+    "category": "wallpapers",
     "width": 5120,
     "height": 2880,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/dark/manga_girl_rain.png",
-    "name": "manga girl rain",
-    "category": "dark",
-    "width": 3083,
-    "height": 1734,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/manga_portal.png",
-    "name": "manga portal",
-    "category": "dark",
+    "file": "wallpapers/big_hill.jpg",
+    "name": "big hill",
+    "category": "wallpapers",
     "width": 3840,
-    "height": 2160,
+    "height": 2560,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/dark/manga_shrine.png",
-    "name": "manga shrine",
-    "category": "dark",
-    "width": 2800,
-    "height": 1575,
+    "file": "wallpapers/big_hills.jpg",
+    "name": "big hills",
+    "category": "wallpapers",
+    "width": 6760,
+    "height": 4507,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/dark/marina_bay_sands.png",
-    "name": "marina bay sands",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/monstad_in_dark.jpg",
-    "name": "monstad in dark",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/moonlight.jpg",
-    "name": "moonlight",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/moonlit_mountain_village.jpg",
-    "name": "moonlit mountain village",
-    "category": "dark",
-    "width": 4368,
-    "height": 2448,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/mountain_dark.png",
-    "name": "mountain dark",
-    "category": "dark",
-    "width": 2560,
-    "height": 1440,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/mountain_lake.jpg",
-    "name": "mountain lake",
-    "category": "dark",
-    "width": 3200,
-    "height": 1829,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/mountain_light.png",
-    "name": "mountain light",
-    "category": "dark",
-    "width": 2560,
-    "height": 1440,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/mountain_sunrise.jpg",
-    "name": "mountain sunrise",
-    "category": "dark",
-    "width": 5824,
-    "height": 3264,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/musashi_miyamoto.png",
-    "name": "musashi miyamoto",
-    "category": "dark",
-    "width": 2560,
-    "height": 1440,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/muscle_car_ice_road_red_moon.jpg",
-    "name": "muscle car ice road red moon",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/mystical_night_in_town.jpg",
-    "name": "mystical night in town",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nature.jpg",
-    "name": "nature",
-    "category": "dark",
-    "width": 5120,
-    "height": 2880,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nature.png",
-    "name": "nature",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nature_concept_butterflies.png",
-    "name": "nature concept butterflies",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nature_flower.png",
-    "name": "nature flower",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nature_lake.png",
-    "name": "nature lake",
-    "category": "dark",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/natures_mountain_waters.jpg",
-    "name": "natures mountain waters",
-    "category": "dark",
-    "width": 2560,
-    "height": 1707,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/night_city.jpg",
-    "name": "night city",
-    "category": "dark",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nightfall_by_the_lake.jpg",
-    "name": "nightfall by the lake",
-    "category": "dark",
-    "width": 4032,
-    "height": 2688,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/dark/nights_embrace.jpg",
-    "name": "nights embrace",
-    "category": "dark",
-    "width": 4368,
-    "height": 2448,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/dark_nature.png",
-    "name": "dark nature",
-    "category": "minimal",
-    "width": 2563,
-    "height": 1436,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/deer_in_pine_forest.jpg",
-    "name": "deer in pine forest",
-    "category": "minimal",
+    "file": "wallpapers/big_sword.png",
+    "name": "big sword",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/minimal/dessert_light.png",
-    "name": "dessert light",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/drawing.png",
-    "name": "drawing",
-    "category": "minimal",
-    "width": 7680,
-    "height": 4320,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/dreamscape_wanderer.jpg",
-    "name": "dreamscape wanderer",
-    "category": "minimal",
-    "width": 4032,
-    "height": 2688,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/dreamy_aesthetic_home_under_moonlight.png",
-    "name": "dreamy aesthetic home under moonlight",
-    "category": "minimal",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/dusks_embrace.jpg",
-    "name": "dusks embrace",
-    "category": "minimal",
-    "width": 8000,
-    "height": 4500,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/enchanted_island.jpg",
-    "name": "enchanted island",
-    "category": "minimal",
-    "width": 5824,
-    "height": 3264,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/evening_landscape.jpg",
-    "name": "evening landscape",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/explorer_green_day.jpg",
-    "name": "explorer green day",
-    "category": "minimal",
-    "width": 2560,
-    "height": 1440,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_autumn.png",
-    "name": "fantasy autumn",
-    "category": "minimal",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_garden.png",
-    "name": "fantasy garden",
-    "category": "minimal",
-    "width": 3904,
-    "height": 2240,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_hongkong.png",
-    "name": "fantasy hongkong",
-    "category": "minimal",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_icymountain.png",
-    "name": "fantasy icymountain",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2272,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_japanese_street.png",
-    "name": "fantasy japanese street",
-    "category": "minimal",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_lake1.png",
-    "name": "fantasy lake1",
-    "category": "minimal",
-    "width": 3904,
-    "height": 2240,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_lake2.png",
-    "name": "fantasy lake2",
-    "category": "minimal",
-    "width": 3904,
-    "height": 2240,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_lake3.png",
-    "name": "fantasy lake3",
-    "category": "minimal",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_landscape1.png",
-    "name": "fantasy landscape1",
-    "category": "minimal",
-    "width": 2304,
-    "height": 1536,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_landscape2.png",
-    "name": "fantasy landscape2",
-    "category": "minimal",
-    "width": 3904,
-    "height": 2240,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_landscape3.png",
-    "name": "fantasy landscape3",
-    "category": "minimal",
-    "width": 3831,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_lanscape_night.png",
-    "name": "fantasy lanscape night",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2272,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_mountain.png",
-    "name": "fantasy mountain",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_mountain_lake.jpeg",
-    "name": "fantasy mountain lake",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_snow_valley.png",
-    "name": "fantasy snow valley",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fantasy_sunset.png",
-    "name": "fantasy sunset",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/field.jpeg",
-    "name": "field",
-    "category": "minimal",
+    "file": "wallpapers/bike_park.jpg",
+    "name": "bike park",
+    "category": "wallpapers",
     "width": 2560,
     "height": 1600,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/minimal/forest_dark.png",
-    "name": "forest dark",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/forest_landscape.jpg",
-    "name": "forest landscape",
-    "category": "minimal",
-    "width": 2560,
-    "height": 1992,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/forest_light.png",
-    "name": "forest light",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/fuji_dark.png",
-    "name": "fuji dark",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/game_gta.png",
-    "name": "game gta",
-    "category": "minimal",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/gray_anime_girl.jpg",
-    "name": "gray anime girl",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2561,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/hatsun_miku.png",
-    "name": "hatsun miku",
-    "category": "minimal",
+    "file": "wallpapers/bill_board_light.jpg",
+    "name": "bill board light",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/minimal/hcrvwqc.jpeg",
-    "name": "hcrvwqc",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/high_tension.jpg",
-    "name": "high tension",
-    "category": "minimal",
-    "width": 2880,
-    "height": 1800,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/illustration_anime_city.jpg",
-    "name": "illustration anime city",
-    "category": "minimal",
-    "width": 5824,
-    "height": 3328,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/inazuma_cats_place.png",
-    "name": "inazuma cats place",
-    "category": "minimal",
-    "width": 5120,
-    "height": 2880,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/inazuma_sacrad_tree.jpg",
-    "name": "inazuma sacrad tree",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/inazuma_tensukaku.png",
-    "name": "inazuma tensukaku",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/italy.png",
-    "name": "italy",
-    "category": "minimal",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/japan_background_digital_art.jpg",
-    "name": "japan background digital art",
-    "category": "minimal",
-    "width": 5376,
-    "height": 3584,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/japan_street_dark.png",
-    "name": "japan street dark",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/japan_street_light.png",
-    "name": "japan street light",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/japanese_train.png",
-    "name": "japanese train",
-    "category": "minimal",
-    "width": 1920,
-    "height": 1075,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/katana_in_shadow.png",
-    "name": "katana in shadow",
-    "category": "minimal",
-    "width": 4096,
-    "height": 2304,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/minimal/ketils_farm.jpg",
-    "name": "ketils farm",
-    "category": "minimal",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/backyard.png",
-    "name": "backyard",
-    "category": "nature",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/bonsai_plant.png",
+    "file": "wallpapers/bonsai_plant.png",
     "name": "bonsai plant",
-    "category": "nature",
+    "category": "wallpapers",
     "width": 2912,
     "height": 1632,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/nature/classroom.png",
-    "name": "classroom",
-    "category": "nature",
-    "width": 1200,
-    "height": 585,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/cloudy.jpg",
-    "name": "cloudy",
-    "category": "nature",
-    "width": 1920,
-    "height": 1079,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/cloudy_sky.jpg",
-    "name": "cloudy sky",
-    "category": "nature",
+    "file": "wallpapers/bridge.jpg",
+    "name": "bridge",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/nature/comet.jpg",
-    "name": "comet",
-    "category": "nature",
-    "width": 1920,
-    "height": 1081,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/concept_japanese_house.png",
-    "name": "concept japanese house",
-    "category": "nature",
+    "file": "wallpapers/broken-mask.png",
+    "name": "broken mask",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/nature/copper_mountain.jpg",
-    "name": "copper mountain",
-    "category": "nature",
-    "width": 2975,
-    "height": 1838,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/nature/corndog.png",
-    "name": "corndog",
-    "category": "nature",
+    "file": "wallpapers/building_cyber.jpg",
+    "name": "building cyber",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/nature/courtside_sunset.png",
-    "name": "courtside sunset",
-    "category": "nature",
-    "width": 2912,
-    "height": 1632,
+    "file": "wallpapers/buildings.png",
+    "name": "buildings",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_04.png",
-    "name": "nix silk 04",
-    "category": "space",
+    "file": "wallpapers/cabin_4.png",
+    "name": "cabin 4",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 802,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/car.jpg",
+    "name": "car",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_05.png",
-    "name": "nix silk 05",
-    "category": "space",
-    "width": 1920,
-    "height": 1080,
+    "file": "wallpapers/car_5.jpg",
+    "name": "car 5",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2176,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_06.png",
-    "name": "nix silk 06",
-    "category": "space",
-    "width": 1920,
-    "height": 1080,
+    "file": "wallpapers/car_and_girl.jpg",
+    "name": "car and girl",
+    "category": "wallpapers",
+    "width": 2994,
+    "height": 1676,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_07.png",
-    "name": "nix silk 07",
-    "category": "space",
+    "file": "wallpapers/car_future.jpg",
+    "name": "car future",
+    "category": "wallpapers",
     "width": 1920,
-    "height": 1080,
+    "height": 1076,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_08.png",
-    "name": "nix silk 08",
-    "category": "space",
-    "width": 1920,
-    "height": 1080,
+    "file": "wallpapers/car_moving.jpg",
+    "name": "car moving",
+    "category": "wallpapers",
+    "width": 3500,
+    "height": 1961,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/space/nix_silk_10.png",
-    "name": "nix silk 10",
-    "category": "space",
-    "width": 1920,
-    "height": 1080,
+    "file": "wallpapers/car_racing.jpg",
+    "name": "car racing",
+    "category": "wallpapers",
+    "width": 1903,
+    "height": 1024,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/pastel_window.png",
-    "name": "pastel window",
-    "category": "technology",
+    "file": "wallpapers/cartoon.png",
+    "name": "cartoon",
+    "category": "wallpapers",
     "width": 2880,
     "height": 1620,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/path_to_the_moon.jpg",
-    "name": "path to the moon",
-    "category": "technology",
-    "width": 8154,
-    "height": 4570,
+    "file": "wallpapers/catppuccin_bsod.png",
+    "name": "catppuccin bsod",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/pink_moon_serenity.jpg",
-    "name": "pink moon serenity",
-    "category": "technology",
-    "width": 6000,
-    "height": 3429,
+    "file": "wallpapers/catppuccin_keyboard.png",
+    "name": "catppuccin keyboard",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/porsche_911.png",
-    "name": "porsche 911",
-    "category": "technology",
+    "file": "wallpapers/catppuccin_keyboard_2.png",
+    "name": "catppuccin keyboard 2",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/celestial_samurai.jpg",
+    "name": "celestial samurai",
+    "category": "wallpapers",
+    "width": 2000,
+    "height": 1121,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/character_fighting.jpg",
+    "name": "character fighting",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_1.jpg",
+    "name": "city 1",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_bridge.jpg",
+    "name": "city bridge",
+    "category": "wallpapers",
+    "width": 5295,
+    "height": 3530,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_corner.jpg",
+    "name": "city corner",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2304,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_dark.png",
+    "name": "city dark",
+    "category": "wallpapers",
+    "width": 7680,
+    "height": 4320,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_light.png",
+    "name": "city light",
+    "category": "wallpapers",
+    "width": 7680,
+    "height": 4320,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_night.png",
+    "name": "city night",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_rain.png",
+    "name": "city rain",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_rainy_night.png",
+    "name": "city rainy night",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/city_top_view.jpg",
+    "name": "city top view",
+    "category": "wallpapers",
+    "width": 5464,
+    "height": 3643,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/cloudy.jpg",
+    "name": "cloudy",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1079,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/cloudy_sky.jpg",
+    "name": "cloudy sky",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/coffin_liars.png",
+    "name": "coffin liars",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/comet.jpg",
+    "name": "comet",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1081,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/concept_japanese_house.png",
+    "name": "concept japanese house",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/copper_mountain.jpg",
+    "name": "copper mountain",
+    "category": "wallpapers",
+    "width": 2975,
+    "height": 1838,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/corndog.png",
+    "name": "corndog",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/courtside_sunset.png",
+    "name": "courtside sunset",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/dark_nature.png",
+    "name": "dark nature",
+    "category": "wallpapers",
+    "width": 2563,
+    "height": 1436,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/door_in_lake.jpg",
+    "name": "door in lake",
+    "category": "wallpapers",
+    "width": 8192,
+    "height": 4320,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/drawing.png",
+    "name": "drawing",
+    "category": "wallpapers",
+    "width": 7680,
+    "height": 4320,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/dreamscape_wanderer.jpg",
+    "name": "dreamscape wanderer",
+    "category": "wallpapers",
+    "width": 4032,
+    "height": 2688,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/dreamy_aesthetic_home_under_moonlight.png",
+    "name": "dreamy aesthetic home under moonlight",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/droplets_in_leaves.jpg",
+    "name": "droplets in leaves",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/dusks_embrace.jpg",
+    "name": "dusks embrace",
+    "category": "wallpapers",
+    "width": 8000,
+    "height": 4500,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/enchanted_island.jpg",
+    "name": "enchanted island",
+    "category": "wallpapers",
+    "width": 5824,
+    "height": 3264,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/evening_landscape.jpg",
+    "name": "evening landscape",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/explorer_green_day.jpg",
+    "name": "explorer green day",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/eye.jpg",
+    "name": "eye",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 1830,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/eye_6.jpg",
+    "name": "eye 6",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_autumn.png",
+    "name": "fantasy autumn",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_garden.png",
+    "name": "fantasy garden",
+    "category": "wallpapers",
+    "width": 3904,
+    "height": 2240,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_japanese_street.png",
+    "name": "fantasy japanese street",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_lake1.png",
+    "name": "fantasy lake1",
+    "category": "wallpapers",
+    "width": 3904,
+    "height": 2240,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_lake2.png",
+    "name": "fantasy lake2",
+    "category": "wallpapers",
+    "width": 3904,
+    "height": 2240,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_lake3.png",
+    "name": "fantasy lake3",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_landscape1.png",
+    "name": "fantasy landscape1",
+    "category": "wallpapers",
+    "width": 2304,
+    "height": 1536,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_landscape2.png",
+    "name": "fantasy landscape2",
+    "category": "wallpapers",
+    "width": 3904,
+    "height": 2240,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_landscape3.png",
+    "name": "fantasy landscape3",
+    "category": "wallpapers",
+    "width": 3831,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_lanscape_night.png",
+    "name": "fantasy lanscape night",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2272,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_mountain.png",
+    "name": "fantasy mountain",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_mountain_lake.jpeg",
+    "name": "fantasy mountain lake",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_snow_valley.png",
+    "name": "fantasy snow valley",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fantasy_sunset.png",
+    "name": "fantasy sunset",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/field.jpeg",
+    "name": "field",
+    "category": "wallpapers",
     "width": 2560,
     "height": 1600,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/raiden_shogan.jpg",
-    "name": "raiden shogan",
-    "category": "technology",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/red_eclipse.png",
-    "name": "red eclipse",
-    "category": "technology",
+    "file": "wallpapers/flower_withBubbles.jpg",
+    "name": "flower withBubbles",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/red_forest.png",
-    "name": "red forest",
-    "category": "technology",
-    "width": 5824,
-    "height": 3264,
+    "file": "wallpapers/flowers.jpg",
+    "name": "flowers",
+    "category": "wallpapers",
+    "width": 1919,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/red_forest2.jpg",
-    "name": "red forest2",
-    "category": "technology",
+    "file": "wallpapers/flowers_1.jpg",
+    "name": "flowers 1",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/reflection_of_train.png",
-    "name": "reflection of train",
-    "category": "technology",
+    "file": "wallpapers/flowers_2.jpg",
+    "name": "flowers 2",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2720,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/forest_dark.png",
+    "name": "forest dark",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/forest_landscape.jpg",
+    "name": "forest landscape",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1992,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/forest_light.png",
+    "name": "forest light",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/frog.jpg",
+    "name": "frog",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/fuji_dark.png",
+    "name": "fuji dark",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/future_destruction.jpg",
+    "name": "future destruction",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/game_gta.png",
+    "name": "game gta",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/giraffe_painting.jpg",
+    "name": "giraffe painting",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/girl_boy_sea.jpg",
+    "name": "girl boy sea",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/girl_in_balcony.jpg",
+    "name": "girl in balcony",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/river_to_castle_theme_blue.jpg",
-    "name": "river to castle theme blue",
-    "category": "technology",
-    "width": 5184,
-    "height": 2920,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/robot_home.png",
-    "name": "robot home",
-    "category": "technology",
+    "file": "wallpapers/girl_in_river_bank.jpg",
+    "name": "girl in river bank",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/rocket_launch.jpg",
-    "name": "rocket launch",
-    "category": "technology",
-    "width": 5160,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/rocky_land.jpg",
-    "name": "rocky land",
-    "category": "technology",
+    "file": "wallpapers/girl_smelling.jpg",
+    "name": "girl smelling",
+    "category": "wallpapers",
     "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sakura_gate.jpg",
-    "name": "sakura gate",
-    "category": "technology",
-    "width": 4420,
-    "height": 2486,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/shiba.png",
-    "name": "shiba",
-    "category": "technology",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/ship_landscape.jpeg",
-    "name": "ship landscape",
-    "category": "technology",
-    "width": 5500,
-    "height": 3082,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sky_view.jpg",
-    "name": "sky view",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/spaceship1.jpg",
-    "name": "spaceship1",
-    "category": "technology",
-    "width": 2500,
-    "height": 1406,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/spaceship2.jpg",
-    "name": "spaceship2",
-    "category": "technology",
-    "width": 2750,
-    "height": 1546,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/spaceship_start.jpg",
-    "name": "spaceship start",
-    "category": "technology",
-    "width": 5640,
     "height": 2400,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/spaceshuttle.png",
-    "name": "spaceshuttle",
-    "category": "technology",
+    "file": "wallpapers/gray_anime_girl.jpg",
+    "name": "gray anime girl",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2561,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/green_leaves.jpg",
+    "name": "green leaves",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/stall.jpg",
-    "name": "stall",
-    "category": "technology",
-    "width": 2800,
-    "height": 1575,
+    "file": "wallpapers/hatsun_miku.png",
+    "name": "hatsun miku",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/street_2.png",
-    "name": "street 2",
-    "category": "technology",
+    "file": "wallpapers/haven_gate.jpg",
+    "name": "haven gate",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/study_table.png",
-    "name": "study table",
-    "category": "technology",
+    "file": "wallpapers/hcrvwqc.jpeg",
+    "name": "hcrvwqc",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/high_tension.jpg",
+    "name": "high tension",
+    "category": "wallpapers",
+    "width": 2880,
+    "height": 1800,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/horror_forest.jpg",
+    "name": "horror forest",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/horror_forest_2.jpg",
+    "name": "horror forest 2",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/hyper_tech_car.jpg",
+    "name": "hyper tech car",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/illustration_anime_city.jpg",
+    "name": "illustration anime city",
+    "category": "wallpapers",
     "width": 5824,
-    "height": 3264,
+    "height": 3328,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/sun_setting_horizon.png",
-    "name": "sun setting horizon",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset4.jpg",
-    "name": "sunset4",
-    "category": "technology",
-    "width": 3840,
-    "height": 2138,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_10.jpg",
-    "name": "sunset 10",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_drive_forest.jpg",
-    "name": "sunset drive forest",
-    "category": "technology",
-    "width": 1920,
-    "height": 1080,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_forrest.png",
-    "name": "sunset forrest",
-    "category": "technology",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_gradient.png",
-    "name": "sunset gradient",
-    "category": "technology",
-    "width": 1514,
-    "height": 1036,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_in_thick_forest.jpg",
-    "name": "sunset in thick forest",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_landscape.jpg",
-    "name": "sunset landscape",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_lookout.jpg",
-    "name": "sunset lookout",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_mountain_beautiful.jpg",
-    "name": "sunset mountain beautiful",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/sunset_room.png",
-    "name": "sunset room",
-    "category": "technology",
-    "width": 2912,
-    "height": 1632,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/temple_of_the_setting_sun.jpg",
-    "name": "temple of the setting sun",
-    "category": "technology",
-    "width": 5376,
-    "height": 3584,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/the_snap_hunt_camping.png",
-    "name": "the snap hunt camping",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/thorfinn_with_tourch.jpg",
-    "name": "thorfinn with tourch",
-    "category": "technology",
-    "width": 1920,
-    "height": 886,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/tokyo_pink.png",
-    "name": "tokyo pink",
-    "category": "technology",
+    "file": "wallpapers/inazuma_cats_place.png",
+    "name": "inazuma cats place",
+    "category": "wallpapers",
     "width": 5120,
     "height": 2880,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/tower_night.png",
-    "name": "tower night",
-    "category": "technology",
+    "file": "wallpapers/inazuma_sacrad_tree.jpg",
+    "name": "inazuma sacrad tree",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/train.png",
-    "name": "train",
-    "category": "technology",
+    "file": "wallpapers/inazuma_tensukaku.png",
+    "name": "inazuma tensukaku",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/italy.png",
+    "name": "italy",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/japan_background_digital_art.jpg",
+    "name": "japan background digital art",
+    "category": "wallpapers",
+    "width": 5376,
+    "height": 3584,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/japan_city.jpg",
+    "name": "japan city",
+    "category": "wallpapers",
+    "width": 4000,
+    "height": 1691,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/japan_street_dark.png",
+    "name": "japan street dark",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/japan_street_light.png",
+    "name": "japan street light",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/japanese_train.png",
+    "name": "japanese train",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1075,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/train_sideview.png",
-    "name": "train sideview",
-    "category": "technology",
+    "file": "wallpapers/jungle_fighters.jpg",
+    "name": "jungle fighters",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/tree.jpg",
-    "name": "tree",
-    "category": "technology",
-    "width": 1920,
-    "height": 1280,
+    "file": "wallpapers/katana_in_shadow.png",
+    "name": "katana in shadow",
+    "category": "wallpapers",
+    "width": 4096,
+    "height": 2304,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/tree_red.png",
-    "name": "tree red",
-    "category": "technology",
-    "width": 3840,
-    "height": 2160,
-    "author": "Aexinide",
-    "license": "CC BY 4.0"
-  },
-  {
-    "file": "wallpapers/technology/twilight.jpg",
-    "name": "twilight",
-    "category": "technology",
+    "file": "wallpapers/ketils_farm.jpg",
+    "name": "ketils farm",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/ufo_and_cat.png",
-    "name": "ufo and cat",
-    "category": "technology",
+    "file": "wallpapers/lady_dark.jpg",
+    "name": "lady dark",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lady_warrior.jpg",
+    "name": "lady warrior",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/leaves_dry.jpg",
+    "name": "leaves dry",
+    "category": "wallpapers",
+    "width": 5184,
+    "height": 3456,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/liquid_yin_and_yang.jpeg",
+    "name": "liquid yin and yang",
+    "category": "wallpapers",
+    "width": 5500,
+    "height": 3082,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_anime_room.png",
+    "name": "lofi anime room",
+    "category": "wallpapers",
     "width": 2912,
     "height": 1632,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/under_starlit_sky.png",
+    "file": "wallpapers/lofi_cafe1.png",
+    "name": "lofi cafe1",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_cafe2.png",
+    "name": "lofi cafe2",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_cat.png",
+    "name": "lofi cat",
+    "category": "wallpapers",
+    "width": 5039,
+    "height": 2835,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_chill_room.png",
+    "name": "lofi chill room",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_chill_room2.jpeg",
+    "name": "lofi chill room2",
+    "category": "wallpapers",
+    "width": 5824,
+    "height": 3264,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_computer.png",
+    "name": "lofi computer",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_desktop_man_studying.png",
+    "name": "lofi desktop man studying",
+    "category": "wallpapers",
+    "width": 2088,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_study.png",
+    "name": "lofi study",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofi_urban_nightscape.png",
+    "name": "lofi urban nightscape",
+    "category": "wallpapers",
+    "width": 2184,
+    "height": 1224,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofoten2.jpg",
+    "name": "lofoten2",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lofoten_sundown.jpg",
+    "name": "lofoten sundown",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lord_and_planet.jpg",
+    "name": "lord and planet",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1013,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lotus.png",
+    "name": "lotus",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/lowpoly_street.png",
+    "name": "lowpoly street",
+    "category": "wallpapers",
+    "width": 5120,
+    "height": 2880,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/magical_weapon.png",
+    "name": "magical weapon",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/man_and_temple.jpg",
+    "name": "man and temple",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 1600,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/man_in_tophills.jpg",
+    "name": "man in tophills",
+    "category": "wallpapers",
+    "width": 5333,
+    "height": 3000,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/man_with_car.jpg",
+    "name": "man with car",
+    "category": "wallpapers",
+    "width": 3500,
+    "height": 1961,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/manga_girl_rain.png",
+    "name": "manga girl rain",
+    "category": "wallpapers",
+    "width": 3083,
+    "height": 1734,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/manga_portal.png",
+    "name": "manga portal",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/manga_shrine.png",
+    "name": "manga shrine",
+    "category": "wallpapers",
+    "width": 2800,
+    "height": 1575,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/maomao-garden.jpg",
+    "name": "maomao garden",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/marina_bay_sands.png",
+    "name": "marina bay sands",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/monstad_in_dark.jpg",
+    "name": "monstad in dark",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/moonlight.jpg",
+    "name": "moonlight",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/moonlit_mountain_village.jpg",
+    "name": "moonlit mountain village",
+    "category": "wallpapers",
+    "width": 4368,
+    "height": 2448,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/mountain_dark.png",
+    "name": "mountain dark",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/mountain_lake.jpg",
+    "name": "mountain lake",
+    "category": "wallpapers",
+    "width": 3200,
+    "height": 1829,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/mountain_light.png",
+    "name": "mountain light",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/mountain_sunrise.jpg",
+    "name": "mountain sunrise",
+    "category": "wallpapers",
+    "width": 5824,
+    "height": 3264,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/musashi_miyamoto.png",
+    "name": "musashi miyamoto",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/muscle_car_ice_road_red_moon.jpg",
+    "name": "muscle car ice road red moon",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/mystical_night_in_town.jpg",
+    "name": "mystical night in town",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature.png",
+    "name": "nature",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_4.jpg",
+    "name": "nature 4",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 802,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_5.jpg",
+    "name": "nature 5",
+    "category": "wallpapers",
+    "width": 3904,
+    "height": 2240,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_beautiful.jpg",
+    "name": "nature beautiful",
+    "category": "wallpapers",
+    "width": 4000,
+    "height": 2250,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_concept_butterflies.png",
+    "name": "nature concept butterflies",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_flower.png",
+    "name": "nature flower",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_lake.png",
+    "name": "nature lake",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nature_sunset.jpg",
+    "name": "nature sunset",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/natures_mountain_waters.jpg",
+    "name": "natures mountain waters",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1707,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/night_city.jpg",
+    "name": "night city",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nightfall_by_the_lake.jpg",
+    "name": "nightfall by the lake",
+    "category": "wallpapers",
+    "width": 4032,
+    "height": 2688,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nights_embrace.jpg",
+    "name": "nights embrace",
+    "category": "wallpapers",
+    "width": 4368,
+    "height": 2448,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_04.png",
+    "name": "nix silk 04",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_05.png",
+    "name": "nix silk 05",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_06.png",
+    "name": "nix silk 06",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_07.png",
+    "name": "nix silk 07",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_08.png",
+    "name": "nix silk 08",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nix_silk_10.png",
+    "name": "nix silk 10",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/no_mans_land.jpg",
+    "name": "no mans land",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/nordwall3.jpg",
+    "name": "nordwall3",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/palace.jpg",
+    "name": "palace",
+    "category": "wallpapers",
+    "width": 3065,
+    "height": 1909,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/pesonal_space.jpg",
+    "name": "pesonal space",
+    "category": "wallpapers",
+    "width": 4074,
+    "height": 2292,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/pink_moon_serenity.jpg",
+    "name": "pink moon serenity",
+    "category": "wallpapers",
+    "width": 6000,
+    "height": 3429,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/porsche_911.png",
+    "name": "porsche 911",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1600,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/raiden_shogan.jpg",
+    "name": "raiden shogan",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/red_eclipse.png",
+    "name": "red eclipse",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/red_forest.png",
+    "name": "red forest",
+    "category": "wallpapers",
+    "width": 5824,
+    "height": 3264,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/red_forest2.jpg",
+    "name": "red forest2",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/red_tree.jpg",
+    "name": "red tree",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/reflection_of_train.png",
+    "name": "reflection of train",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/river_to_castle_theme_blue.jpg",
+    "name": "river to castle theme blue",
+    "category": "wallpapers",
+    "width": 5184,
+    "height": 2920,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/road_to_village.jpg",
+    "name": "road to village",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1280,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/robot_home.png",
+    "name": "robot home",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/robots.jpg",
+    "name": "robots",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/robots_1.jpg",
+    "name": "robots 1",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/robots_2.jpg",
+    "name": "robots 2",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/rocket_launch.jpg",
+    "name": "rocket launch",
+    "category": "wallpapers",
+    "width": 5160,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/rocky_land.jpg",
+    "name": "rocky land",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sad_girl.jpg",
+    "name": "sad girl",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sakura_gate.jpg",
+    "name": "sakura gate",
+    "category": "wallpapers",
+    "width": 4420,
+    "height": 2486,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sclpture_dying.jpg",
+    "name": "sclpture dying",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sclupture.jpg",
+    "name": "sclupture",
+    "category": "wallpapers",
+    "width": 3839,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sea_deep.jpg",
+    "name": "sea deep",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sea_horse.jpg",
+    "name": "sea horse",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1464,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sea_night.jpg",
+    "name": "sea night",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/shiba.png",
+    "name": "shiba",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/ship_landscape.jpeg",
+    "name": "ship landscape",
+    "category": "wallpapers",
+    "width": 5500,
+    "height": 3082,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sky_view.jpg",
+    "name": "sky view",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/small_house.jpg",
+    "name": "small house",
+    "category": "wallpapers",
+    "width": 2560,
+    "height": 1440,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/space_3.jpg",
+    "name": "space 3",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/space_eclipse.jpg",
+    "name": "space eclipse",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/spaceship1.jpg",
+    "name": "spaceship1",
+    "category": "wallpapers",
+    "width": 2500,
+    "height": 1406,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/spaceship2.jpg",
+    "name": "spaceship2",
+    "category": "wallpapers",
+    "width": 2750,
+    "height": 1546,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/spaceship_start.jpg",
+    "name": "spaceship start",
+    "category": "wallpapers",
+    "width": 5640,
+    "height": 2400,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/spaceshuttle.png",
+    "name": "spaceshuttle",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/spider-noir.jpg",
+    "name": "spider noir",
+    "category": "wallpapers",
+    "width": 5120,
+    "height": 2880,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/stall.jpg",
+    "name": "stall",
+    "category": "wallpapers",
+    "width": 2800,
+    "height": 1575,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/star_falling.jpg",
+    "name": "star falling",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/street.jpg",
+    "name": "street",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/street_1.jpg",
+    "name": "street 1",
+    "category": "wallpapers",
+    "width": 3854,
+    "height": 1975,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/street_2.png",
+    "name": "street 2",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/study_table.png",
+    "name": "study table",
+    "category": "wallpapers",
+    "width": 5824,
+    "height": 3264,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sun_setting_horizon.png",
+    "name": "sun setting horizon",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_10.jpg",
+    "name": "sunset 10",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_drive_forest.jpg",
+    "name": "sunset drive forest",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_forrest.png",
+    "name": "sunset forrest",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_in_thick_forest.jpg",
+    "name": "sunset in thick forest",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_landscape.jpg",
+    "name": "sunset landscape",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_lookout.jpg",
+    "name": "sunset lookout",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_mountain_beautiful.jpg",
+    "name": "sunset mountain beautiful",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/sunset_room.png",
+    "name": "sunset room",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/temple_3.jpg",
+    "name": "temple 3",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/temple_in_far.jpg",
+    "name": "temple in far",
+    "category": "wallpapers",
+    "width": 1456,
+    "height": 816,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/temple_of_the_setting_sun.jpg",
+    "name": "temple of the setting sun",
+    "category": "wallpapers",
+    "width": 5376,
+    "height": 3584,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/the_snap_hunt_camping.png",
+    "name": "the snap hunt camping",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/thorfinn_with_tourch.jpg",
+    "name": "thorfinn with tourch",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 886,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/thrown_sitting.png",
+    "name": "thrown sitting",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/tokyo_pink.png",
+    "name": "tokyo pink",
+    "category": "wallpapers",
+    "width": 5120,
+    "height": 2880,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/tower_from_sea.jpg",
+    "name": "tower from sea",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1496,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/tower_night.png",
+    "name": "tower night",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/train.png",
+    "name": "train",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1075,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/train_sideview.png",
+    "name": "train sideview",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/tree.jpg",
+    "name": "tree",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1280,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/tree_red.png",
+    "name": "tree red",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/twilight.jpg",
+    "name": "twilight",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/twinkling_stars.jpg",
+    "name": "twinkling stars",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/ufo_and_cat.png",
+    "name": "ufo and cat",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/under_starlit_sky.png",
     "name": "under starlit sky",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/video_game_the_blackstreets.jpeg",
+    "file": "wallpapers/video_game_the_blackstreets.jpeg",
     "name": "video game the blackstreets",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/village_dark.png",
+    "file": "wallpapers/village_dark.png",
     "name": "village dark",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 4096,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/village_light.png",
+    "file": "wallpapers/village_light.png",
     "name": "village light",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 4096,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/wangshu_inn.jpg",
+    "file": "wallpapers/wangshu_inn.jpg",
     "name": "wangshu inn",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 2592,
     "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/watchtower_mountains_and_forests.jpg",
+    "file": "wallpapers/watchtower_mountains_and_forests.jpg",
     "name": "watchtower mountains and forests",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 3840,
     "height": 2160,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/work.png",
+    "file": "wallpapers/water_tank.jpg",
+    "name": "water tank",
+    "category": "wallpapers",
+    "width": 2912,
+    "height": 1632,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/white_flowers.jpg",
+    "name": "white flowers",
+    "category": "wallpapers",
+    "width": 3840,
+    "height": 2160,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/white_wall.jpg",
+    "name": "white wall",
+    "category": "wallpapers",
+    "width": 2120,
+    "height": 1325,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/work.png",
     "name": "work",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 2560,
     "height": 1280,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/yellowcar.jpg",
+    "file": "wallpapers/yellowcar.jpg",
     "name": "yellowcar",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 1920,
     "height": 1100,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   },
   {
-    "file": "wallpapers/technology/your_name_anime_night_sky.jpg",
+    "file": "wallpapers/your_name_anime_night_sky.jpg",
     "name": "your name anime night sky",
-    "category": "technology",
+    "category": "wallpapers",
     "width": 15360,
     "height": 8640,
+    "author": "Aexinide",
+    "license": "CC BY 4.0"
+  },
+  {
+    "file": "wallpapers/your_name_night_sky.jpg",
+    "name": "your name night sky",
+    "category": "wallpapers",
+    "width": 1920,
+    "height": 1080,
     "author": "Aexinide",
     "license": "CC BY 4.0"
   }
