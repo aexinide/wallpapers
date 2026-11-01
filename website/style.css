@@ -6,43 +6,39 @@
   padding: 0;
 }
 :root {
-  --bg: #08090b;
-  --fg: #d9dde2;
-  --mut: #6f7680;
   --acc: #7fd1c7;
 }
 body {
-  background: var(--bg);
-  color: var(--fg);
-  font: 15px/1.6 system-ui, "Segoe UI", sans-serif;
-  padding: 2.5rem 3vw;
+  background: #0e0e0e;
+  color: #ccc;
+  font-family: monospace;
+  padding: 2rem;
 }
 header {
-  max-width: 1400px;
+  max-width: 700px;
   margin: 0 auto 2.5rem;
 }
-h1 {
-  font: 600 2rem/1.1 system-ui, sans-serif;
-  letter-spacing: -0.03em;
+header h1 {
+  font-size: 1.6rem;
   color: #fff;
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.05em;
 }
-h1 span {
+header h1 span {
   color: var(--acc);
-  font-weight: 400;
 }
 header p {
-  color: var(--mut);
-  max-width: 52ch;
+  font-size: 0.85rem;
+  line-height: 1.7;
+  color: #888;
 }
-header b {
-  color: var(--acc);
-  font-weight: 500;
-  white-space: nowrap;
-}
-.links {
+.meta {
   margin-top: 0.6rem;
-  font: 0.8rem ui-monospace, monospace;
+}
+.meta b {
+  color: var(--acc);
+  font-weight: normal;
+  margin-right: 1rem;
 }
 a {
   color: inherit;
@@ -52,75 +48,25 @@ a:focus-visible {
   outline-offset: 2px;
 }
 .grid {
-  max-width: 1400px;
-  margin: 0 auto;
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 10px;
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+  gap: 6px;
 }
-.tile {
-  position: relative;
-  background: #111317;
-  border-radius: 2px;
-  overflow: hidden;
-  outline: 1px solid transparent;
-  transition: outline-color 0.15s;
-}
-.tile:hover,
-.tile:focus-within {
-  outline-color: var(--acc);
-}
-.tile img {
+.grid img {
   width: 100%;
   height: auto;
   display: block;
+  border-radius: 4px;
+  transition: opacity 0.2s ease;
 }
-.tile .name,
-.tile .dl {
-  position: absolute;
-  opacity: 0;
-  transition: opacity 0.15s;
-}
-.tile .name {
-  left: 0;
-  right: 0;
-  bottom: 0;
-  padding: 1.6rem 0.7rem 0.5rem;
-  font: 0.75rem ui-monospace, monospace;
-  color: #eee;
-  background: linear-gradient(transparent, rgba(0, 0, 0, 0.85));
-  pointer-events: none;
-}
-.tile .name small {
-  color: var(--mut);
-  margin-left: 0.5rem;
-}
-.tile .dl {
-  top: 0.5rem;
-  right: 0.5rem;
-  padding: 0.15rem 0.6rem;
-  font: 0.75rem ui-monospace, monospace;
-  color: var(--acc);
-  background: rgba(0, 0, 0, 0.75);
-  border-radius: 2px;
-  text-decoration: none;
-}
-.tile:hover .name,
-.tile:hover .dl,
-.tile:focus-within .name,
-.tile:focus-within .dl {
-  opacity: 1;
-}
-@media (hover: none) {
-  .tile .dl {
-    opacity: 1;
-  }
+.grid a:hover img {
+  opacity: 0.75;
 }
 footer {
-  max-width: 1400px;
-  margin: 3rem auto 0;
-  font-size: 0.8rem;
-  color: var(--mut);
+  margin-top: 3rem;
+  font-size: 0.75rem;
+  color: #555;
+  text-align: center;
   line-height: 1.8;
 }
 footer a {

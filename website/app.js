@@ -4,22 +4,18 @@ const PAGE = 12;
 let offset = 0;
 let walls = [];
 
-function tile(w) {
-  const size = w.width && w.height ? `${w.width}×${w.height}` : "";
-  const dim = size ? `width="${w.width}" height="${w.height}"` : "";
-  return `
-    <figure class="tile">
-      <a href="${w.file}" target="_blank" rel="noopener noreferrer">
-        <img src="${w.file}" alt="${w.name}" ${dim} loading="lazy" decoding="async" />
-      </a>
-      <span class="name">${w.name}<small>${size}</small></span>
-      <a class="dl" href="${w.file}" download>download</a>
-    </figure>`;
-}
-
 function loadMore() {
   const end = Math.min(offset + PAGE, walls.length);
-  grid.insertAdjacentHTML("beforeend", walls.slice(offset, end).map(tile).join(""));
+  let html = "";
+  for (let i = offset; i < end; i++) {
+    const w = walls[i];
+    const dim = w.width && w.height ? `width="${w.width}" height="${w.height}"` : "";
+    html += `
+      <a href="${w.file}" target="_blank" rel="noopener noreferrer">
+        <img src="${w.file}" alt="${w.name}" title="${w.name}" ${dim} loading="lazy" decoding="async" />
+      </a>`;
+  }
+  grid.insertAdjacentHTML("beforeend", html);
   offset = end;
 }
 
@@ -36,5 +32,6 @@ fetch("metadata/wallpapers.json")
   })
   .catch((err) => {
     console.error(err);
+    grid.style.cssText = "display: flex; justify-content: center;";
     grid.innerHTML = `<p style="color:#f77">Could not load wallpapers.</p>`;
   });
