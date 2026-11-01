@@ -4,7 +4,7 @@ const PAGE = 12;
 let offset = 0;
 let walls = [];
 
-function loadMore() {
+function addPage() {
   const end = Math.min(offset + PAGE, walls.length);
   let html = "";
   for (let i = offset; i < end; i++) {
@@ -19,16 +19,33 @@ function loadMore() {
   offset = end;
 }
 
+// Keep adding pages until the bottom of the grid is well below the screen.
+function fill() {
+  let guard = 0;
+  while (
+    offset < walls.length &&
+    guard++ < 10 &&
+    sentinel.getBoundingClientRect().top < window.innerHeight + 1000
+  ) {
+    addPage();
+  }
+}
+
+let ticking = false;
+function onScroll() {
+  if (ticking) return;
+  ticking = true;
+  requestAnimationFrame(() => { ticking = false; fill(); });
+}
+
 fetch("metadata/wallpapers.json")
   .then((r) => r.json())
   .then((data) => {
     walls = data;
     document.getElementById("count").textContent = `${walls.length} wallpapers`;
-    loadMore();
-    new IntersectionObserver(
-      (e) => { if (e[0].isIntersecting && offset < walls.length) loadMore(); },
-      { rootMargin: "800px" }
-    ).observe(sentinel);
+    fill();
+    addEventListener("scroll", onScroll, { passive: true });
+    addEventListener("resize", onScroll);
   })
   .catch((err) => {
     console.error(err);
