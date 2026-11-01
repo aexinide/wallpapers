@@ -8,13 +8,18 @@
 </head>
 <body>
 <header>
-  <h1>Aexinide<br>Wallpapers</h1>
-  <p>A small, open collection for Linux desktops. Free to download and use.</p>
-  <nav id="filters" aria-label="Categories"></nav>
+  <h1>Aexinide Wallpapers</h1>
+  <p>A personal collection of wallpapers for Linux desktops. Click an image to open it, or hover and press Download.</p>
+  <nav id="filters" aria-label="Categories" hidden></nav>
 </header>
 <main id="grid"></main>
-<p id="empty" hidden>No wallpapers in this category yet.</p>
-<footer>Open source on <a href="https://github.com/aexinide/wallpapers">GitHub</a>. Licensed CC BY 4.0.</footer>
+<div id="sentinel"></div>
+<p id="empty" hidden>No wallpapers found.</p>
+<footer>
+  Wallpapers belong to their original creators. If you made one and want it credited or removed, please
+  <a href="https://github.com/aexinide/wallpapers/issues">open an issue</a>.<br>
+  Source on <a href="https://github.com/aexinide/wallpapers">GitHub</a>.
+</footer>
 <script src="app.js"></script>
 </body>
 </html>
