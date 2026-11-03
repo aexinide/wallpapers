@@ -13,10 +13,18 @@ conf.update(json.loads(CONF.read_text()))
 def collect():
     files = []
     repo = Path(conf["repo"]).expanduser() / "wallpapers"
-    for cat in sorted(p for p in repo.iterdir() if p.is_dir()):
-        if conf["categories"] and cat.name not in conf["categories"]:
-            continue
-        files += [f for f in cat.rglob("*") if f.suffix.lower() in EXT]
+    
+    # Check if the wallpapers directory exists
+    if repo.is_dir():
+        # Scan files directly inside the wallpapers folder
+        files += [f for f in repo.glob("*") if f.suffix.lower() in EXT]
+        
+        # Keep old category folder behavior just in case you use them later
+        for cat in sorted(p for p in repo.iterdir() if p.is_dir()):
+            if conf["categories"] and cat.name not in conf["categories"]:
+                continue
+            files += [f for f in cat.rglob("*") if f.suffix.lower() in EXT]
+            
     for d in conf["extra_dirs"]:
         d = Path(d).expanduser()
         if d.is_dir():
@@ -25,7 +33,7 @@ def collect():
 
 files = collect()
 if not files:
-    raise SystemExit("No wallpapers found. Add images to wallpapers/<category>/")
+    raise SystemExit("No wallpapers found. Place images directly in the wallpapers/ folder.")
 
 try:
     state = json.loads(STATE.read_text())

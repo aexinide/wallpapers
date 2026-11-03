@@ -16,14 +16,17 @@ if [ ! -f "$CFG/backup.txt" ]; then
   done > "$CFG/backup.txt"
 fi
 
-# Write config (keeps your edits if it already exists)
+# Write config (Modified to point to the base wallpapers directory)
 if [ ! -f "$CFG/config.json" ]; then
 cat > "$CFG/config.json" <<JSON
 {
   "mode": "$MODE",
   "repo": "$REPO",
   "categories": [],
-  "extra_dirs": ["~/Pictures/Aexinide-Wallpapers/favorites"]
+  "extra_dirs": [
+    "$REPO/wallpapers",
+    "~/Pictures/Aexinide-Wallpapers/favorites"
+  ]
 }
 JSON
 fi
@@ -34,5 +37,7 @@ done
 
 systemctl --user daemon-reload
 systemctl --user enable --now aexinide-rotate.timer aexinide-sync.timer
-systemctl --user start aexinide-rotate.service || echo "Add images to wallpapers/<category>/ then re-run."
+
+# Force an initial rotate trigger without failing
+systemctl --user start aexinide-rotate.service || echo "Make sure your images are placed directly inside $REPO/wallpapers/"
 echo "Installed. Rotating every $INTERVAL ($MODE). Config: $CFG/config.json"
